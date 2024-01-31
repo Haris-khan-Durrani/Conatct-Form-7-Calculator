@@ -23,9 +23,6 @@ This plugin in you can be using any kind of calculators like weight calculation,
 * You can add a prefix for calculator value.
 * Choice digits after the decimal point for calculator value.
 * Calculate with any cf7 fields.
-* WPML Support
-
-[**📽Get Pro**](https://www.plugin999.com/plugin/calculation-for-contact-form-7/) | [**📽Demo**](https://plugin999.com/demo/calculation-for-contact-form-7/) | [**📽Support**](https://www.plugin999.com/support/)
 
 * Multi Total field
 * You can put Prefix with field wise
