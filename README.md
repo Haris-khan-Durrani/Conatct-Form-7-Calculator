@@ -1,7 +1,7 @@
 # Conatct-Form-7-Calculator
 ![Conatct-Form-7-Calculator Logo](https://hariskhandurrani.com/images/haris.jpeg)
 The [calculator] shortcode is a powerful tool designed to help you calculate the total amount based on various fields name. It's particularly useful for estimating costs related to visa processing.
-
+[![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange.svg)](https://www.buymeacoffee.com/hariskha)
 # Contact Form 7 Calculator
 
 ## Overview
